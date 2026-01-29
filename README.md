@@ -109,6 +109,7 @@ attendance_tracker/
 ### 💻 Setup Instructions
 1️⃣ Clone Repository
 git clone https://github.com/prajwal-2201/University-Attendance-Tracker.git
+
 cd attendance-tracker
 
 2️⃣ Install Dependencies
